@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Proiect DSDM</string>
+    <string name="title_photo">Photo</string>
+    <string name="title_search">Search</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="photo_btn_text">Take a photo</string>
+    <string name="photo_search_title">Photo Search</string>
+</resources>
